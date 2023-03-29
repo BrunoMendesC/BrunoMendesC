@@ -12,3 +12,4 @@ Working with:<br>
 <img src="https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=Arduino&logoColor=00979D" alt="Arduino" />
 
 
+![Snake animation](https://github.com/BrunoMendesC/BrunoMendesC/blob/output/github-contribution-grid-snake.svg)
