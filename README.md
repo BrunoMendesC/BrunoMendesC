@@ -10,6 +10,3 @@ Working with:<br>
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
 <img src="https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=Arduino&logoColor=00979D" alt="Arduino" />
-
-
-![Snake animation](https://github.com/BrunoMendesC/BrunoMendesC/blob/output/github-contribution-grid-snake.svg)
